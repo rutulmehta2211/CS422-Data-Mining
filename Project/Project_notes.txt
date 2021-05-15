@@ -4,6 +4,6 @@
 
 pip install pydotplus
 pip install pydot
-!pip install feature-selector ------No
+!pip install feature-selector ------Github
 !pip install onnxmltools
 ===================================================
