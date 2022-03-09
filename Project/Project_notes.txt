@@ -1,9 +1,0 @@
-!pip install sklearn2pmml
-!pip install skl2onnx
-!pip install onnxruntime
-
-pip install pydotplus
-pip install pydot
-!pip install feature-selector ------Github
-!pip install onnxmltools
-===================================================
